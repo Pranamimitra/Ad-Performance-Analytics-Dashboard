@@ -63,14 +63,13 @@ streamlit run app.py
 🔹 **Budget Optimization Analysis** → Identify underperforming ads  
 
 ## 📸 **Screenshots & Visuals**  
-*(Add images of the dashboard & SQL workflow here!)*  
+ 
 
 ## 🤝 **Contributing**  
 Pull requests & collaborations are welcome! Feel free to fork this repo and enhance its capabilities.  
 
 ## 📢 **Contact & Portfolio**  
 📧 Email: [pranamimitra00@gmail.com](mailto:pranamimitra00@gmail.com)  
-🔗 LinkedIn: [https://www.linkedin.com/in/pranamimitra/]  
-📂 GitHub: [Your GitHub Profile]  
+🔗 LinkedIn: https://www.linkedin.com/in/pranamimitra/ 
 
 

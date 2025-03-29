@@ -16,6 +16,7 @@ Businesses investing in digital ads often struggle with **tracking campaign perf
 - **Python & Streamlit** → Interactive UI (optional)  
 
 ## 📊 **Project Workflow**  
+
 1️⃣ **Data Collection** → Fetch Google Ads data (CTR, CPC, impressions, etc.)  
 2️⃣ **ETL Process** → Clean & transform using SQL + dbt/Airflow  
 3️⃣ **Storage & Query Optimization** → Store in **SQL database** with indexed queries  
